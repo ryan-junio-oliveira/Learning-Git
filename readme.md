@@ -163,6 +163,12 @@ Criar tag anotada (com descrição):
 git tag -a v1.0.0 -m "Versão estável 1.0.0"
 ```
 
+Enviar tag para o remoto:
+
+``` bash
+git push origin v1.0.0
+```
+
 Enviar todas as tags para o remoto:
 
 ``` bash
